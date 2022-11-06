@@ -1,0 +1,14 @@
+{
+    "name": "thiago/herokucom-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thiago"
+        }
+    ],
+    "require": {}
+}
